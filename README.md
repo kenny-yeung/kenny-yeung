@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kenny-yeung
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.JS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MERN stack
+- 💞️ I’m looking to collaborate on any full stack projects!
 - 📫 How to reach me: kennyyeung98@gmail.com
 
 <!---
